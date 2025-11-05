@@ -1,5 +1,3 @@
-(Inizia a copiare da qui)
-
 Demo: Gestione Separatori Culturali in C# (.NET)
 Questo progetto è un'applicazione console C# che dimostra i problemi comuni (e le loro soluzioni) legati alla localizzazione e internazionalizzazione (i18n) durante la lettura e scrittura di file CSV.
 
@@ -67,5 +65,3 @@ Uso di float.Parse(stringa, cultura).
 Uso di float.ToString(cultura).
 
 Importanza di CultureInfo.InvariantCulture per l'interscambio di dati.
-
-(Fine)
