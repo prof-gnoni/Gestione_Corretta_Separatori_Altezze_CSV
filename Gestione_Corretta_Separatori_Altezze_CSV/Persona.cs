@@ -17,6 +17,6 @@
     // (Il 'record' lo faceva in automatico, qui lo facciamo noi)
     public override string ToString()
     {
-        return $"{Nome} {Cognome}, Altezza: {Altezza}m";
+        return $"{Nome} {Cognome} -> Altezza: {Altezza}m";
     }
 }

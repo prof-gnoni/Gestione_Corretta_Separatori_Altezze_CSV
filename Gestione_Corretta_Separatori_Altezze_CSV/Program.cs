@@ -105,7 +105,6 @@ public class Program
 
                 float altezza = float.Parse(altezzaString); // <-- Non va in crash
 
-                // --- AGGIUNGI QUESTA RIGA ---
                 // Stampa l'altezza che CREDE di aver caricato
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine($"--> CORRUZIONE DATI: '{altezzaString}' è stato caricato come: {altezza}m");
